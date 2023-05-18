@@ -11,11 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.Write("Введите 3х значное число: ");
-            string num = Console.ReadLine();
-            string reverse = "";
-            reverse += num[1];
-            reverse += num[2];
-            reverse += num[0];
+            int num = int.Parse(Console.ReadLine());
+            int reverse = num % 100;
+            reverse = num / 100 + reverse * 10;
             Console.WriteLine(reverse);
         }
     }
