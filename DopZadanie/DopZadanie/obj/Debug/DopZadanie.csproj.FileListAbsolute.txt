@@ -1,0 +1,7 @@
+D:\Prac2\DopZadanie\DopZadanie\bin\Debug\DopZadanie.exe.config
+D:\Prac2\DopZadanie\DopZadanie\bin\Debug\DopZadanie.exe
+D:\Prac2\DopZadanie\DopZadanie\bin\Debug\DopZadanie.pdb
+D:\Prac2\DopZadanie\DopZadanie\obj\Debug\DopZadanie.csproj.AssemblyReference.cache
+D:\Prac2\DopZadanie\DopZadanie\obj\Debug\DopZadanie.csproj.CoreCompileInputs.cache
+D:\Prac2\DopZadanie\DopZadanie\obj\Debug\DopZadanie.exe
+D:\Prac2\DopZadanie\DopZadanie\obj\Debug\DopZadanie.pdb
