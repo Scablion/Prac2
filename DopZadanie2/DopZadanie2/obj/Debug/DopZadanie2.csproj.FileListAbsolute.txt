@@ -1,0 +1,7 @@
+D:\clone\Prac2\DopZadanie2\DopZadanie2\bin\Debug\DopZadanie2.exe.config
+D:\clone\Prac2\DopZadanie2\DopZadanie2\bin\Debug\DopZadanie2.exe
+D:\clone\Prac2\DopZadanie2\DopZadanie2\bin\Debug\DopZadanie2.pdb
+D:\clone\Prac2\DopZadanie2\DopZadanie2\obj\Debug\DopZadanie2.csproj.AssemblyReference.cache
+D:\clone\Prac2\DopZadanie2\DopZadanie2\obj\Debug\DopZadanie2.csproj.CoreCompileInputs.cache
+D:\clone\Prac2\DopZadanie2\DopZadanie2\obj\Debug\DopZadanie2.exe
+D:\clone\Prac2\DopZadanie2\DopZadanie2\obj\Debug\DopZadanie2.pdb
